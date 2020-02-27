@@ -6,17 +6,15 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
-3. App Description (3-5 sentences):
-
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+1. Team Members: Marc Jacques, David Williams
+2. App Name: Ad Libs
+3. App Description (3-5 sentences): Ad Libs is a game that allows the user to input random words to create a funny story. The user enters different parts of speech then the words are used to fill in the blanks.
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+    Someone who is bored and looking for a quick and easy laugh
     
-5. Github code repository: `<Create a Github Project>`
+5. Github code repository: https://github.com/iOSPT5-BW1/Ad-Libs
 6. Github Project/Trello Board: `<Post your link to your Kanban board>`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
